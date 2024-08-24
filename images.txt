@@ -1,1 +1,2 @@
 --platform linux/arm64 esphome/esphome
+ghcr.io/home-assistant/amd64-hassio-supervisor
