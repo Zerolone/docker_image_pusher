@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.08.0
+homeassistant/aarch64-homeassistant
