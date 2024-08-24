@@ -1,2 +1,1 @@
---platform=linux/arm64 iobroker/iobroker
---platform=linux/arm/v7 iobroker/iobroker
+nodered/node-red
