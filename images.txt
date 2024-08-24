@@ -1,2 +1,1 @@
 ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.8.2
-ghcr.io/home-assistant/qemuarm-64-homeassistant:2024.8.2
