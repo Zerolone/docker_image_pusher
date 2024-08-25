@@ -1,2 +1,2 @@
-
---platform linux/amd64 node-red:latest-22-minimal
+#node-red:latest-22-minimal
+--platform=linux/arm64 node-red:latest-22-minimal
