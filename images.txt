@@ -1,2 +1,2 @@
 #--platform=linux/arm64 nodered/node-red:latest-22-minimal
---platform=linux/arm64 mysql:5.7
+--platform=linux/arm64 mysql/mysql-server:5.7.41
