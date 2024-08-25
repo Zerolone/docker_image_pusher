@@ -1,2 +1,1 @@
-#123
 --platform=linux/arm64 nodered/node-red:latest-22-minimal
