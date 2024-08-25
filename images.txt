@@ -1,1 +1,2 @@
---platform=linux/arm64 node-red:latest-22-minimal
+#123
+--platform=linux/arm64 nodered/node-red:latest-22-minimal
