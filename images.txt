@@ -1,2 +1,2 @@
 #--platform=linux/arm64 nodered/node-red:latest-22-minimal
---platform=linux/arm64 soulteary/flare
+ghcr.io/gethomepage/homepage:nightly@sha256:581f2f4f591c59e481db9ad15904d3155f446a28f29e628883abdab135cfe66a
