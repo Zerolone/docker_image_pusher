@@ -1,3 +1,5 @@
 #--platform=linux/arm64 nodered/node-red:latest-22-minimal
---platform=linux/arm64 filebrowser/filebrowser
-
+#--platform=linux/arm64 filebrowser/filebrowser
+--platform=linux/arm/v7 6053537/portainer-ce
+--platform=linux/arm/v7 nodered/node-red:latest-22-minimal
+--platform=linux/arm/v7 nodered/node-red:latest-22
