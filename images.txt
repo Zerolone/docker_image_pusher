@@ -7,5 +7,5 @@
 #2024-9-12 09:53:02
 #--platform=linux/amd64  libretranslate/libretranslate:latest
 
---platform=linux/amd64  missuo/deeplx:latest
+--platform=linux/arm/v7  woahbase/alpine-python3
 
