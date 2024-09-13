@@ -7,8 +7,9 @@
 #2024-9-12 09:53:02
 #--platform=linux/amd64  libretranslate/libretranslate:latest
 
---platform=linux/arm/v7  python:3.11.10-slim-bullseye
---platform=linux/arm/v7  python:3.11.10-slim-bookworm
---platform=linux/arm/v7  python:3.11.10-slim
---platform=linux/arm/v7  python:3.11.10-alpine3.20
+#--platform=linux/arm/v7  python:3.11.10-slim-bullseye
+#--platform=linux/arm/v7  python:3.11.10-slim-bookworm
+#--platform=linux/arm/v7  python:3.11.10-slim
+#--platform=linux/arm/v7  python:3.11.10-alpine3.20
 
+--platform=linux/arm/v7  python:3.9.20-slim-bullseye
