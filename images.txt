@@ -16,4 +16,7 @@
 
 #emqx/emqx:5.8.0
 #owncloud/server
-6053537/portainer-ce
+owncloud/ubuntu
+
+#6053537/portainer-ce
+
