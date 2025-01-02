@@ -1,6 +1,6 @@
 #--platform=linux/arm64 nodered/node-red:latest-22-minimal
 #--platform=linux/arm64 filebrowser/filebrowser
-#--platform=linux/arm/v7 homeassistant/home-assistant:stable
+--platform=linux/arm/v7 homeassistant/home-assistant:stable
 #--platform=linux/arm64  homeassistant/home-assistant:stable
 #--platform=linux/amd64  homeassistant/home-assistant:stable
 
@@ -20,9 +20,10 @@
 
 #6053537/portainer-ce
 
-seafileltd/seafile-mc:11.0-latest
-mariadb:10.11
-memcached:1.6.18
+#seafileltd/seafile-mc:11.0-latest
+#mariadb:10.11
+#memcached:1.6.18
 
 --platform=linux/arm/v7 whyet/awtrix2:latest
 
+--platform=linux/arm/v7 silentwind0/kvmd:latest
