@@ -2,7 +2,7 @@
 #--platform=linux/arm64 filebrowser/filebrowser
 --platform=linux/arm/v7 homeassistant/home-assistant:stable
 #--platform=linux/arm64  homeassistant/home-assistant:stable
-#--platform=linux/amd64  homeassistant/home-assistant:stable
+--platform=linux/amd64  homeassistant/home-assistant:stable
 
 #2024-9-12 09:53:02
 #--platform=linux/amd64  libretranslate/libretranslate:latest
