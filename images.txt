@@ -28,3 +28,5 @@
 #--platform=linux/arm/v7 silentwind0/kvmd:latest
 
 whyour/qinglong:latest
+
+--platform=linux/arm64 portainer/portainer-ce:2.9.1
