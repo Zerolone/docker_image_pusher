@@ -24,6 +24,7 @@
 #mariadb:10.11
 #memcached:1.6.18
 
---platform=linux/arm/v7 whyet/awtrix2:latest
+#--platform=linux/arm/v7 whyet/awtrix2:latest
+#--platform=linux/arm/v7 silentwind0/kvmd:latest
 
---platform=linux/arm/v7 silentwind0/kvmd:latest
+whyour/qinglong:latest
