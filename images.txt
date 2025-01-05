@@ -28,7 +28,9 @@
 #whyour/qinglong:latest
 
 #6053537/portainer-ce
-#--platform=linux/arm64 portainer/portainer-ce:2.9.1
 --platform=linux/arm64   6053537/portainer-ce
 --platform=linux/arm/v7  6053537/portainer-ce
 
+#it-tools
+--platform=linux/arm64  corentinth/it-tools
+--platform=linux/amd64  corentinth/it-tools
