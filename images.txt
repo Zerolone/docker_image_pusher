@@ -34,3 +34,8 @@
 #it-tools
 --platform=linux/arm64  corentinth/it-tools
 --platform=linux/amd64  corentinth/it-tools
+
+#youshandefeiyang/allinone
+--platform=linux/arm64  youshandefeiyang/allinone
+--platform=linux/arm/v7 youshandefeiyang/allinone
+youshandefeiyang/allinone
