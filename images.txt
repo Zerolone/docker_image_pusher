@@ -1,6 +1,8 @@
 #--platform=linux/arm64 nodered/node-red:latest-22-minimal
 #--platform=linux/arm64 filebrowser/filebrowser
-#--platform=linux/arm/v7 homeassistant/home-assistant:stable
+
+#ha
+--platform=linux/arm/v7 homeassistant/home-assistant:stable
 #--platform=linux/arm64  homeassistant/home-assistant:stable
 #--platform=linux/amd64  homeassistant/home-assistant:stable
 
@@ -28,14 +30,14 @@
 #whyour/qinglong:latest
 
 #6053537/portainer-ce
---platform=linux/arm64   6053537/portainer-ce
+#--platform=linux/arm64   6053537/portainer-ce
 --platform=linux/arm/v7  6053537/portainer-ce
 
 #it-tools
---platform=linux/arm64  corentinth/it-tools
---platform=linux/amd64  corentinth/it-tools
+#--platform=linux/arm64  corentinth/it-tools
+#--platform=linux/amd64  corentinth/it-tools
 
 #youshandefeiyang/allinone
---platform=linux/arm64  youshandefeiyang/allinone
---platform=linux/arm/v7 youshandefeiyang/allinone
-youshandefeiyang/allinone
+#--platform=linux/arm64  youshandefeiyang/allinone
+#--platform=linux/arm/v7 youshandefeiyang/allinone
+#youshandefeiyang/allinone
